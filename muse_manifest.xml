@@ -1,0 +1,66 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="WDG-Website.html" resolutions="1x" timestamp="1512604696716">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="435334832" ref="specials:index"/>
+    <file name="specials.css" crc="3863636863" ref="specials"/>
+    <file name="index.css" crc="3853201205" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:specials"/>
+    <file name="museutils.js" crc="3803043152" ref="index:specials"/>
+    <file name="whatinput.js" crc="86476730" ref="index:specials"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:specials"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:specials"/>
+    <file name="webpro.js" crc="242022427" ref="index:specials"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index:specials"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index:specials"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index:specials"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:specials"/>
+    <file name="require.js" crc="4157109226" ref="index:specials"/>
+    <file name="form_check.php" crc="147359589" ref="specials"/>
+    <file name="form_throttle.php" crc="93986428" ref="specials"/>
+    <file name="form_process.php" crc="3851993751" ref="specials"/>
+    <file name="form-u1381.php" crc="3892513344" ref="specials"/>
+  </folder>
+  <folder name="images">
+    <file name="wdg.png" crc="504087080" seo="true" ref="index:specials">
+      <caption webpage="index" alt=""/>
+      <caption webpage="specials" alt=""/>
+    </file>
+    <file name="menu.jpg" crc="28382512" seo="true" ref="index:specials">
+      <caption webpage="index" alt=""/>
+      <caption webpage="specials" alt=""/>
+    </file>
+    <file name="u1175.png" crc="4269879811" ref="index:specials"/>
+    <file name="u1175-a.png" crc="3880022514" ref="index:specials"/>
+    <file name="afghan_hound-crop-u149.jpg" crc="114272945" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="barbet_dog-crop-u401.jpg" crc="3988580060" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="makind-crop-u421.jpg" crc="4068478281" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="outside_view-crop-u1155.jpg" crc="3920374644" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="background.jpg" crc="4081720569" ref="index:specials">
+      <caption webpage="index" alt=""/>
+      <caption webpage="specials" alt=""/>
+    </file>
+    <file name="doubledog-crop-u1262.jpg" crc="422472544" seo="true" ref="specials">
+      <caption webpage="specials" alt=""/>
+    </file>
+    <file name="234.jpg" crc="4087669933" seo="true" ref="specials">
+      <caption webpage="specials" alt=""/>
+    </file>
+    <file name="banner.png" crc="4071854457" seo="true" ref="specials">
+      <caption webpage="specials" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4140890140" seo="true" mt="1512595305287" redirect="true"/>
+  <file name="specials.html" crc="504872547" seo="true" mt="1512595947318" redirect="true"/>
+</manifest>
